@@ -9,7 +9,7 @@
 ### Connect with me:
 <div style="display: inline_block">
   <a href="https://linkedin.com/in/alvinojr" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" width="40" /></a>
-  <a href="https://instagram.com/seu-usuario" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" width="40" /></a>
+  <a href="https://instagram.com/seu-usuario" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="40" width="40" /></a>
   <a href="https://wa.me/55SEUNUMERO" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" height="40" width="40" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /></a>
 </div>
 
