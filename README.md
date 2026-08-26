@@ -3,13 +3,15 @@
 ### Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full-Stack
 
 * 🌱 Atualmente estou focado no desenvolvimento backend com **Java** e **Spring Boot** e frontend com **Angular**.
-* 💻 Todos os meus projetos estão https://github.com/Alvin-keys?tab=repositories
+* 💻 Todos os meus projetos estão https://github.com/Alvin-keys
 * 📫 Como falar comigo: alvinojrdev@gmail.com
 
 ### Connect with me:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://linkedin.com/in/alvinojr)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">](https://instagram.com/seu-usuario)
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">](https://wa.me/55SEUNUMERO)
+<div style="display: inline_block">
+  <a href="https://linkedin.com/in/alvinojr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/alvinojr_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.me/5586998025997" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</div>
 
 ### Languages and Tools:
 <div style="display: inline_block">
