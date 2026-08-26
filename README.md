@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá 👋, eu sou [Alvino Júnior]
 
-<!--
-**Alvin-keys/Alvin-keys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Estudante de Engenharia de Software]
 
-Here are some ideas to get you started:
+* 🌱 Atualmente estou aprendendo [Python e MongoDB]
+* 💻 Todos os meus projetos estão [no meu perfil](https://github.com/Alvin-keys)
+* 📫 Como falar comigo: alvinojrdev@gmail.com
+* 📄 Saiba sobre minhas experiências https://github.com/Alvin-keys?tab=repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/alvinojr/)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">](https://instagram.com/seu-usuario)
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">](https://wa.me/5586998025997)
+
+### Languages and Tools:
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=post
+</div>
